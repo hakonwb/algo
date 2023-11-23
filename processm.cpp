@@ -49,5 +49,7 @@ int main() {
     // Mostrando la cola del scheduler
     scheduler.displayQueue();
 
+    std::cout << "El Hakon";
+
     return 0;
 }
